@@ -1,0 +1,10 @@
+{
+  "name": "any-http-integration-test-helpers",
+  "version": "0.0.0",
+  "description": "AnyHTTP integration test helpers",
+  "main": "index.js",
+  "license": "Apache-2",
+  "dependencies": {
+    "q": "^1.1.1"
+  }
+}
